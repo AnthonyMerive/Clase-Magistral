@@ -1,5 +1,5 @@
 let valorPorHora;
-let carroTipo;
+let tipo;
 let horas;
 let descuento;
 let valorInicial;
